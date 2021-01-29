@@ -6,8 +6,13 @@ package mv.tutoMaven;
  */
 public class App {
     public static void main(final String[] args) {
+<<<<<<< HEAD
         System.out.print("Hello");
         System.out.println(" World!");
+=======
+        System.out.print("Hello ");
+        System.out.println("World!");        
+>>>>>>> refs/remotes/origin/branch1
     }
     
     private static int inutile(int sansImportance) {
