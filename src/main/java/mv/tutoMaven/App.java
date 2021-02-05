@@ -6,13 +6,8 @@ package mv.tutoMaven;
  */
 public class App {
     public static void main(final String[] args) {
-<<<<<<< HEAD
         System.out.print("Hello");
         System.out.println(" World!");
-=======
-        System.out.print("Hello ");
-        System.out.println("World!");        
->>>>>>> refs/remotes/origin/branch1
     }
     
     private static int inutile(int sansImportance) {
@@ -22,7 +17,7 @@ public class App {
     private static void inutile(int sansImportance, String ch) {
     	ch += sansImportance;
     }
-    private static void inutile2(int sansImportance, String ch) {
+    private static void inutile1(int sansImportance, String ch) {
     	ch += sansImportance;
     }
 }
