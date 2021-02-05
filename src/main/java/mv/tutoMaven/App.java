@@ -6,8 +6,7 @@ package mv.tutoMaven;
  */
 public class App {
     public static void main(final String[] args) {
-        System.out.print("Hello");
-        System.out.println(" World!");
+        System.out.println("Hello World !");
     }
     
     private static int inutile(int sansImportance) {
